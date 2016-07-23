@@ -1,0 +1,16 @@
+{
+  "name": "yatzy",
+  "version": "1.0.0",
+  "description": "The game of Yatzi in functional programming style",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": ["game"],
+  "author": "userpixel",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
